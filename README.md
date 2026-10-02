@@ -1,1 +1,2 @@
-echo "#My First Git Project" > README.md
+echo "#My First Git Project"
+echo "This is my feature branch."
